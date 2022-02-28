@@ -7,7 +7,7 @@ public class HelloWorld {
         System.out.println("Changes on development branch");
         System.out.println("Changes on development branch2");
         System.out.println("Changes from Branch to MErge2");
-        System.out.println("Changes from Branch to MErge3");
+        System.out.println("Changes from Branch to MErge4");
     }
 }         
 
