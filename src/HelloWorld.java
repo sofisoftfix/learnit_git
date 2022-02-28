@@ -8,7 +8,8 @@ public class HelloWorld {
         System.out.println("Changes on development branch2");
         System.out.println("Changes from Branch to MErgedevelopment thread");
         System.out.println("Changes from Branch to Merge");
-        System.out.println("Changes from Developer1_branch");
+        System.out.println("Changes from Developer3_branch");
+        System.out.println("Creating conflicts");
     }
 }         
 
