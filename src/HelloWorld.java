@@ -6,6 +6,8 @@ public class HelloWorld {
         System.out.println("More changes from user B"); //changes from user B
         System.out.println("Changes on development branch");
         System.out.println("Changes from Branch to Merge");
+        System.out.println("Changes from Branch to Rebase");
+
     }
 }         
 
